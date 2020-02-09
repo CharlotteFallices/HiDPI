@@ -55,7 +55,7 @@ cp -r ./HIDPI/backup/* ./
 ## 附录
 
 借鉴了以下内容的思路:
-[[Solved]: Black Screen with GTX 1070, LG Ultrafine 5k, Sierra 10.12.4](https://www.tonymacx86.com/threads/solved-black-screen-with-gtx-1070-lg-ultrafine-5k-sierra-10-12-4.219872/page-4#post-1644805)
+- [Black Screen with GTX 1070, LG Ultrafine 5k, Sierra 10.12.4](https://www.tonymacx86.com/threads/solved-black-screen-with-gtx-1070-lg-ultrafine-5k-sierra-10-12-4.219872/page-4#post-1644805)
 
-[syscl/Enable-HiDPI-OSX](https://github.com/syscl/Enable-HiDPI-OSX)
+- [syscl/Enable-HiDPI-OSX](https://github.com/syscl/Enable-HiDPI-OSX)
 

@@ -59,3 +59,6 @@ cp -r ./HIDPI/backup/* ./
 
 - [syscl/Enable-HiDPI-OSX](https://github.com/syscl/Enable-HiDPI-OSX)
 
+## License
+
+MIT License
